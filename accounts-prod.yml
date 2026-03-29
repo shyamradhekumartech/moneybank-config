@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to MoneyBank accounts related PROD APIs"
+  message: "Welcome to MoneyBank accounts related production APIs"
   contactDetails:
     name: "Sandeep Rawat - Product Owner"
     email: "{cipher}569bf52a7fc0ecc886673fe8dc74665879cb171b02c0825ebeec77f5a37f9e273cde19209d6cd85cbb68a35542e4ac94"
