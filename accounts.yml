@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to MoneyBank accounts related webhook APIs"
+  message: "Welcome to MoneyBank accounts related webhook2 APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@moneybank.com"
